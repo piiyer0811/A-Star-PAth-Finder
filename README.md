@@ -25,7 +25,6 @@ The A* algorithm calculates the shortest path from the start to the destination,
 ## 🕹️ Controls
 
 - **Left Click**: Draw Start, End, and Blockages
-- **Right Click**: Remove elements
 - **Spacebar**: Start the A* algorithm simulation
 - **C**: Clear the grid and reset
 
@@ -34,7 +33,9 @@ The A* algorithm calculates the shortest path from the start to the destination,
 - Python 3.x
 - `pygame` library
 
-Install dependencies using pip:
+Install dependencies using pip: pip install pygame
 
-```bash
-pip install pygame
+## Running The Code
+- python astar.py
+- If you have Python 3 then python3 astar.py
+
