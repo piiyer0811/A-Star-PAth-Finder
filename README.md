@@ -40,5 +40,5 @@ Install dependencies using pip: pip install pygame
 - If you have Python 3 then python3 astar.py
 
 ## Demo
-![A* Pathfinding Demo](A%20Star%20GIF.gif)
+![A* Pathfinding Demo](astar-demo.gif)
 
